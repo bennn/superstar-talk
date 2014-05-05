@@ -1,0 +1,11 @@
+# Compiled LaTeX files
+pres.aux
+pres.log
+pres.nav
+pres.out
+pres.pdf
+pres.snm
+pres.toc
+
+# Vim temporary files
+*.swp
